@@ -1,7 +1,7 @@
 #coding: utf8
 
-STORAGE_FOLDER = "/Users/guoruibiao/Desktop/spotlight/"
-STOPWORDS_PATH = "/Users/guoruibiao/PycharmProjects/memokeeper/stopwords.txt"
+STORAGE_FOLDER = "/Users/biao/PycharmProjects/memokeeper/spotlight/"
+STOPWORDS_PATH = "/Users/biao/PycharmProjects/memokeeper/stopwords.txt"
 
 # seconds for running loop
 RUNNING_INTERVAL = 3
